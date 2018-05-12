@@ -1,5 +1,5 @@
 #+TITLE: 公是第子記-宋-劉敞
-#+DATE: 2016-06-11 12:22:48
+#+DATE: 2018-05-12 10:17:28
 #+SOURCE: github.com/kanripo/KR3a0034 master 288eae1f                
 欽定四庫全書　　　　　子部一
 　公是弟子記　　　　　　儒家類

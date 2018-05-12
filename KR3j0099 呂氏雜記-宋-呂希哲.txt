@@ -1,5 +1,5 @@
 #+TITLE: 呂氏雜記-宋-呂希哲
-#+DATE: 2016-06-11 12:23:36
+#+DATE: 2018-05-12 10:18:15
 #+SOURCE: github.com/kanripo/KR3j0099 master b03e663e                
 欽定四庫全書　　　　　子部十
 　提要

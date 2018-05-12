@@ -1,5 +1,5 @@
 #+TITLE: 朱子抄釋-明-呂柟
-#+DATE: 2016-06-11 12:22:54
+#+DATE: 2018-05-12 10:17:34
 #+SOURCE: github.com/kanripo/KR3a0092 master b0f98932                
 欽定四庫全書　　　　　子部一
 　朱子抄釋　　　　　　　儒家類

@@ -1,5 +1,5 @@
 #+TITLE: 儒志編-宋-王開祖
-#+DATE: 2016-06-11 12:22:48
+#+DATE: 2018-05-12 10:17:28
 #+SOURCE: github.com/kanripo/KR3a0022 master ee581394                
 欽定四庫全書　　　　　子部一
 　儒志編　　　　　　　　儒家類

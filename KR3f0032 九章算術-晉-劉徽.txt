@@ -1,5 +1,5 @@
 #+TITLE: 九章算術-晉-劉徽
-#+DATE: 2016-06-11 12:23:19
+#+DATE: 2018-05-12 10:17:57
 #+SOURCE: github.com/kanripo/KR3f0032 master 0a44dbd3                
 劉徽九章算術注原序
 昔在包犧氏始畫八卦以通神明之德以類萬

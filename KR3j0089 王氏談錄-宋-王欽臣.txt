@@ -1,5 +1,5 @@
 #+TITLE: 王氏談錄-宋-王欽臣
-#+DATE: 2016-06-11 12:23:36
+#+DATE: 2018-05-12 10:18:14
 #+SOURCE: github.com/kanripo/KR3j0089 master fbd0fad4                
 欽定四庫全書　　　　　子部十
 　王氏談録　　　　　　　雜家類三(雜説之屬/)

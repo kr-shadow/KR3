@@ -1,5 +1,5 @@
 #+TITLE: 東原錄-宋-龔鼎臣
-#+DATE: 2016-06-11 12:23:36
+#+DATE: 2018-05-12 10:18:14
 #+SOURCE: github.com/kanripo/KR3j0088 master dd9c868e                
 欽定四庫全書　　　　　子部十
 　東原録　　　　　　　　雜家類三(雜説之屬/)

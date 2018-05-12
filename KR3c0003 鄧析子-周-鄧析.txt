@@ -1,5 +1,5 @@
 #+TITLE: 鄧析子-周-鄧析
-#+DATE: 2016-06-11 12:22:58
+#+DATE: 2018-05-12 10:17:38
 #+SOURCE: github.com/kanripo/KR3c0003 master 45e4cf77                
 欽定四庫全書　　　　　子部
 　鄧子　　　　　　　　　法家類

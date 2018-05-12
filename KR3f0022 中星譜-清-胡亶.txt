@@ -1,5 +1,5 @@
 #+TITLE: 中星譜-清-胡亶
-#+DATE: 2016-06-11 12:23:18
+#+DATE: 2018-05-12 10:17:57
 #+SOURCE: github.com/kanripo/KR3f0022 master d8e8a6c2                
 欽定四庫全書　　　　　子部六
 　中星譜　　　　　　　　天文算法類一(推步之/屬)

@@ -1,5 +1,5 @@
 #+TITLE: 欽定儀象考成-清-允祿
-#+DATE: 2016-06-11 12:23:18
+#+DATE: 2018-05-12 10:17:57
 #+SOURCE: github.com/kanripo/KR3f0020 master 7eb05d4e                
 　欽定四庫全書
 　御製儀象考成序

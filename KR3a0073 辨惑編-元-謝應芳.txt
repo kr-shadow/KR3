@@ -1,5 +1,5 @@
 #+TITLE: 辨惑編-元-謝應芳
-#+DATE: 2016-06-11 12:22:52
+#+DATE: 2018-05-12 10:17:32
 #+SOURCE: github.com/kanripo/KR3a0073 master 4f90aeb8                
 欽定四庫全書　　　　子部一
 　辨惑編　　　　　　　儒家類

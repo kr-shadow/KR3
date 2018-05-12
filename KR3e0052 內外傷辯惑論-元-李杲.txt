@@ -1,5 +1,5 @@
 #+TITLE: 內外傷辯惑論-元-李杲
-#+DATE: 2016-06-11 12:23:04
+#+DATE: 2018-05-12 10:17:43
 #+SOURCE: github.com/kanripo/KR3e0052 master 08e76b46                
 欽定四庫全書　　　　子部五
 　内外傷寒辨惑論　　　醫家類

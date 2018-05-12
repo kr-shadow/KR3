@@ -1,5 +1,5 @@
 #+TITLE: 書法雅言-明-項穆
-#+DATE: 2016-06-11 12:23:25
+#+DATE: 2018-05-12 10:18:03
 #+SOURCE: github.com/kanripo/KR3h0050 master d4f65e04                
 欽定四庫全書　　　　　子部八
 　書法雅言　　　　　　　藝術類一(書畫之屬/)

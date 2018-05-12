@@ -1,5 +1,5 @@
 #+TITLE: 古今同姓名錄-梁-元帝
-#+DATE: 2016-06-11 12:23:44
+#+DATE: 2018-05-12 10:18:22
 #+SOURCE: github.com/kanripo/KR3k0001 master 9d5df90a                
 欽定四庫全書　　　　　子部十一
 　提要

@@ -1,5 +1,5 @@
 #+TITLE: 呻吟語摘-明-呂坤
-#+DATE: 2016-06-11 12:22:55
+#+DATE: 2018-05-12 10:17:34
 #+SOURCE: github.com/kanripo/KR3a0096 master 2b9c0daf                
 欽定四庫全書　　　　　子部一
 　呻吟語摘　　　　　　　儒家類

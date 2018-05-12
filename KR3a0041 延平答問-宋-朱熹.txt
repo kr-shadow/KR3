@@ -1,5 +1,5 @@
 #+TITLE: 延平答問-宋-朱熹
-#+DATE: 2016-06-11 12:22:48
+#+DATE: 2018-05-12 10:17:28
 #+SOURCE: github.com/kanripo/KR3a0041 master 20ccd62c                
 欽定四庫全書　　　　子部一
 　延平答問　　　　　　　儒家類

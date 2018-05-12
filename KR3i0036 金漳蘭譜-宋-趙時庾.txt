@@ -1,5 +1,5 @@
 #+TITLE: 金漳蘭譜-宋-趙時庾
-#+DATE: 2016-06-11 12:23:30
+#+DATE: 2018-05-12 10:18:08
 #+SOURCE: github.com/kanripo/KR3i0036 master dbded661                
 欽定四庫全書　　　　　　子部九
 　金漳蘭譜　　　　　　　　譜録類三(草木禽魚之/屬)

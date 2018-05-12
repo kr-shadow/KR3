@@ -1,5 +1,5 @@
 #+TITLE: 子思子全書-宋-王晫
-#+DATE: 2016-06-11 12:22:50
+#+DATE: 2018-05-12 10:17:30
 #+SOURCE: github.com/kanripo/KR3a0054 master 618748fc                
 欽定四庫全書　　　　　子部一
 　子思子全書　　　　　　儒家類

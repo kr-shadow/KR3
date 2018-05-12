@@ -1,5 +1,5 @@
 #+TITLE: 張氏可書-宋-張知甫
-#+DATE: 2016-06-11 12:24:18
+#+DATE: 2018-05-12 10:18:54
 #+SOURCE: github.com/kanripo/KR3l0065 master 2c843058                
 欽定四庫全書　　　　　子部十二
 　提要

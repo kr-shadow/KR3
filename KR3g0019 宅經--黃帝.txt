@@ -1,5 +1,5 @@
 #+TITLE: 宅經--黃帝
-#+DATE: 2016-06-11 12:23:21
+#+DATE: 2018-05-12 10:18:00
 #+SOURCE: github.com/kanripo/KR3g0019 master 66368bef                
 欽定四庫全書　　　　　　子部七
 　宅經　　　　　　　　　　術數類三(相宅相墓之/屬)

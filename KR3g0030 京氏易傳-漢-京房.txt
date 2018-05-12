@@ -1,5 +1,5 @@
 #+TITLE: 京氏易傳-漢-京房
-#+DATE: 2016-06-11 12:23:21
+#+DATE: 2018-05-12 10:18:00
 #+SOURCE: github.com/kanripo/KR3g0030 master 42da5450                
 京氏易傳目録
 　上卷

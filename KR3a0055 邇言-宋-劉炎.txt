@@ -1,5 +1,5 @@
 #+TITLE: 邇言-宋-劉炎
-#+DATE: 2016-06-11 12:22:50
+#+DATE: 2018-05-12 10:17:30
 #+SOURCE: github.com/kanripo/KR3a0055 master 6ce741a8                
 欽定四庫全書　　　　　子部一
 　邇言　　　　　　　　　儒家類

@@ -1,5 +1,5 @@
 #+TITLE: 幾何原本-明-西洋歐几里得
-#+DATE: 2016-06-11 12:23:19
+#+DATE: 2018-05-12 10:17:58
 #+SOURCE: github.com/kanripo/KR3f0047 master dc6b7c0f                
 欽定四庫全書　　　　　子部六
 　幾何原本　　　　　　　天文算法類二(算書之/屬)

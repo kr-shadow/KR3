@@ -1,5 +1,5 @@
 #+TITLE: 心經-宋-眞德秀
-#+DATE: 2016-06-11 12:22:51
+#+DATE: 2018-05-12 10:17:31
 #+SOURCE: github.com/kanripo/KR3a0060 master 441cbabe                
 欽定四庫全書　　　　　子部一
 　心經　　　　　　　　　儒家類

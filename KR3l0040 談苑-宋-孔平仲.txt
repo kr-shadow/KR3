@@ -1,5 +1,5 @@
 #+TITLE: 談苑-宋-孔平仲
-#+DATE: 2016-06-11 12:24:17
+#+DATE: 2018-05-12 10:18:53
 #+SOURCE: github.com/kanripo/KR3l0040 master dab827ce                
 欽定四庫全書　　　　　子部十二
 　談苑　　　　　　　　　小説家𩔖一(雜事之屬/)

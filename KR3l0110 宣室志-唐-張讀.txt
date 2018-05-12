@@ -1,5 +1,5 @@
 #+TITLE: 宣室志-唐-張讀
-#+DATE: 2016-06-11 12:24:20
+#+DATE: 2018-05-12 10:18:55
 #+SOURCE: github.com/kanripo/KR3l0110 master 0dbd752d                
 欽定四庫全書　　　　　子部十二
 　宣室志　　　　　　　　小説家𩔖二(異聞之屬/)

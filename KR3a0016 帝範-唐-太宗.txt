@@ -1,5 +1,5 @@
 #+TITLE: 帝範-唐-太宗
-#+DATE: 2016-06-11 12:22:47
+#+DATE: 2018-05-12 10:17:27
 #+SOURCE: github.com/kanripo/KR3a0016 master 7b6bac5e                
 欽定四庫全書　　　　　子部一
 　提要

@@ -1,5 +1,5 @@
 #+TITLE: 續孟子-唐-林愼思
-#+DATE: 2016-06-11 12:22:47
+#+DATE: 2018-05-12 10:17:28
 #+SOURCE: github.com/kanripo/KR3a0017 master 396cc791                
 欽定四庫全書　　　　　子部一
 　續孟子　　　　　　　　儒家類

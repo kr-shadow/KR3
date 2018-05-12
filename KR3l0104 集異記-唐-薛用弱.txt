@@ -1,5 +1,5 @@
 #+TITLE: 集異記-唐-薛用弱
-#+DATE: 2016-06-11 12:24:20
+#+DATE: 2018-05-12 10:18:55
 #+SOURCE: github.com/kanripo/KR3l0104 master 7ae1b9de                
 欽定四庫全書　　　　　子部十二
 　提要

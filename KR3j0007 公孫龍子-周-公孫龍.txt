@@ -1,5 +1,5 @@
 #+TITLE: 公孫龍子-周-公孫龍
-#+DATE: 2016-06-11 12:23:31
+#+DATE: 2018-05-12 10:18:09
 #+SOURCE: github.com/kanripo/KR3j0007 master 10412744                
 欽定四庫全書
 　公孫龍子　鬼谷子

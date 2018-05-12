@@ -1,5 +1,5 @@
 #+TITLE: 司馬法-周-司馬穰苴
-#+DATE: 2016-06-11 12:22:57
+#+DATE: 2018-05-12 10:17:37
 #+SOURCE: github.com/kanripo/KR3b0005 master 8bfeacc8                
 司馬法卷上
 仁本第一

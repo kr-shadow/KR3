@@ -1,5 +1,5 @@
 #+TITLE: 七政推步-明-貝琳
-#+DATE: 2016-06-11 12:23:16
+#+DATE: 2018-05-12 10:17:55
 #+SOURCE: github.com/kanripo/KR3f0006 master dc70e7bf                
 欽定四庫全書　　　　　子部六
 　七政推步　　　　　　　天文算法類一(推歩之/屬)

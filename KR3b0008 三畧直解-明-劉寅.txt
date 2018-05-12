@@ -1,5 +1,5 @@
 #+TITLE: 三畧直解-明-劉寅
-#+DATE: 2016-06-11 12:22:57
+#+DATE: 2018-05-12 10:17:37
 #+SOURCE: github.com/kanripo/KR3b0008 master 31ffd600                
 欽定四庫全書
 　三畧直解卷上

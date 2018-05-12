@@ -1,5 +1,5 @@
 #+TITLE: 張子抄釋-明-呂柟
-#+DATE: 2016-06-11 12:22:54
+#+DATE: 2018-05-12 10:17:34
 #+SOURCE: github.com/kanripo/KR3a0090 master fc50ca07                
 欽定四庫全書　　　　　子部一
 　張子抄釋　　　　　　　儒家類

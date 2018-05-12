@@ -1,5 +1,5 @@
 #+TITLE: 獨斷-漢-蔡邕
-#+DATE: 2016-06-11 12:23:32
+#+DATE: 2018-05-12 10:18:10
 #+SOURCE: github.com/kanripo/KR3j0024 master df972911                
 　獨斷序
 　或有遺予漢左中郎將蔡邕獨斷

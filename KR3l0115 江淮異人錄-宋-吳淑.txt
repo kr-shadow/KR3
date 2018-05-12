@@ -1,5 +1,5 @@
 #+TITLE: 江淮異人錄-宋-吳淑
-#+DATE: 2016-06-11 12:24:20
+#+DATE: 2018-05-12 10:18:56
 #+SOURCE: github.com/kanripo/KR3l0115 master 7f048081                
 欽定四庫全書　　　　　子部十二
 　提要

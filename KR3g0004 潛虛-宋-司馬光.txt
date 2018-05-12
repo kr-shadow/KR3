@@ -1,5 +1,5 @@
 #+TITLE: 潛虛-宋-司馬光
-#+DATE: 2016-06-11 12:23:20
+#+DATE: 2018-05-12 10:17:59
 #+SOURCE: github.com/kanripo/KR3g0004 master d44356bc                
 潛虚
 　　　宋太師温國公司馬光撰

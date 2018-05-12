@@ -1,5 +1,5 @@
 #+TITLE: 菌譜-宋-陳仁玉
-#+DATE: 2016-06-11 12:23:30
+#+DATE: 2018-05-12 10:18:08
 #+SOURCE: github.com/kanripo/KR3i0042 master 6c2e78f4                
 欽定四庫全書
 　菌譜

@@ -1,5 +1,5 @@
 #+TITLE: 鼎錄-陳-虞荔
-#+DATE: 2016-06-11 12:23:28
+#+DATE: 2018-05-12 10:18:07
 #+SOURCE: github.com/kanripo/KR3h0084 master 20af1043                
 欽定四庫全書
 　鼎録

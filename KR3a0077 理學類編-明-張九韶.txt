@@ -1,5 +1,5 @@
 #+TITLE: 理學類編-明-張九韶
-#+DATE: 2016-06-11 12:22:52
+#+DATE: 2018-05-12 10:17:32
 #+SOURCE: github.com/kanripo/KR3a0077 master 9b5489b2                
 欽定四庫全書　　　　子部一
 　理學類編　　　　　　儒家類

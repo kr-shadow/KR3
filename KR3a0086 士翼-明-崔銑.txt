@@ -1,5 +1,5 @@
 #+TITLE: 士翼-明-崔銑
-#+DATE: 2016-06-11 12:22:54
+#+DATE: 2018-05-12 10:17:34
 #+SOURCE: github.com/kanripo/KR3a0086 master 3f0d5b28                
 欽定四庫全書　　　　　子部一
 　士翼　　　　　　　　　儒家類

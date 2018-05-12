@@ -1,5 +1,5 @@
 #+TITLE: 表度說-明-西洋熊三拔
-#+DATE: 2016-06-11 12:23:17
+#+DATE: 2018-05-12 10:17:56
 #+SOURCE: github.com/kanripo/KR3f0010 master 45778404                
 欽定四庫全書　　　　　子部六
 　提要

@@ -1,5 +1,5 @@
 #+TITLE: 李衞公問對-唐-李靖
-#+DATE: 2016-06-11 12:22:57
+#+DATE: 2018-05-12 10:17:37
 #+SOURCE: github.com/kanripo/KR3b0010 master 837b7cf7                
 欽定四庫全書　　　　　子部二
 　李衛公問對　　　　　　兵家類

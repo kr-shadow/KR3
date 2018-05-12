@@ -1,5 +1,5 @@
 #+TITLE: 吳子-周-吳起
-#+DATE: 2016-06-11 12:22:57
+#+DATE: 2018-05-12 10:17:37
 #+SOURCE: github.com/kanripo/KR3b0004 master bc2c60f1                
 吴子卷上
 圖國第一

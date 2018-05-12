@@ -1,5 +1,5 @@
 #+TITLE: 上蔡語錄-宋-謝良佐
-#+DATE: 2016-06-11 12:22:48
+#+DATE: 2018-05-12 10:17:28
 #+SOURCE: github.com/kanripo/KR3a0039 master f11e1237                
 欽定四庫全書　　　　子部一
 　上蔡語錄　　　　　　　儒家類

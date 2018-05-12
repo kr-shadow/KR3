@@ -1,5 +1,5 @@
 #+TITLE: 墨經-宋-晁貫一
-#+DATE: 2016-06-11 12:23:29
+#+DATE: 2018-05-12 10:18:08
 #+SOURCE: github.com/kanripo/KR3i0011 master 416d9693                
 欽定四庫全書
 　墨經

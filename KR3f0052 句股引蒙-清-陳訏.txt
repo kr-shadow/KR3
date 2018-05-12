@@ -1,5 +1,5 @@
 #+TITLE: 句股引蒙-清-陳訏
-#+DATE: 2016-06-11 12:23:20
+#+DATE: 2018-05-12 10:17:59
 #+SOURCE: github.com/kanripo/KR3f0052 master 6b75a4db                
 欽定四庫全書　　　　　子部六
 　勾股引蒙　　　　　　　天文算法類二(算書之/屬)

@@ -1,5 +1,5 @@
 #+TITLE: 治世龜鑑-元-蘇天爵
-#+DATE: 2016-06-11 12:22:52
+#+DATE: 2018-05-12 10:17:32
 #+SOURCE: github.com/kanripo/KR3a0074 master ff5330d4                
 欽定四庫全書　　　　　子部一
 　治世龜鑑　　　　　　　儒家類

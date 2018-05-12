@@ -1,5 +1,5 @@
 #+TITLE: 續書譜-宋-姜夔
-#+DATE: 2016-06-11 12:23:24
+#+DATE: 2018-05-12 10:18:02
 #+SOURCE: github.com/kanripo/KR3h0031 master 7b0fc068                
 欽定四庫全書　　　　　子部八
 　續書譜　　　　　　　　藝術類一(書畫之屬/)

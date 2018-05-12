@@ -1,5 +1,5 @@
 #+TITLE: 讀書偶記-清-雷鈜
-#+DATE: 2016-06-11 12:22:57
+#+DATE: 2018-05-12 10:17:37
 #+SOURCE: github.com/kanripo/KR3a0118 master b6b96711                
 欽定四庫全書　　　　子部一
 　讀書偶記　　　　　　　儒家類

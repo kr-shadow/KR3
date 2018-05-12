@@ -1,5 +1,5 @@
 #+TITLE: 避暑錄話-宋-葉夢得
-#+DATE: 2016-06-11 12:23:37
+#+DATE: 2018-05-12 10:18:15
 #+SOURCE: github.com/kanripo/KR3j0106 master f6f69a2a                
 欽定四庫全書　　　　　子部十
 　避暑録話　　　　　　　雜家類三(雜説之屬/)

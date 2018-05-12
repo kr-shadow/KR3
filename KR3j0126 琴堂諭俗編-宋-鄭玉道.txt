@@ -1,5 +1,5 @@
 #+TITLE: 琴堂諭俗編-宋-鄭玉道
-#+DATE: 2016-06-11 12:23:37
+#+DATE: 2018-05-12 10:18:16
 #+SOURCE: github.com/kanripo/KR3j0126 master ace9feaa                
 欽定四庫全書　　　　　子部十
 　提要

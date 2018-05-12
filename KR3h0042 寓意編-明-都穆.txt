@@ -1,5 +1,5 @@
 #+TITLE: 寓意編-明-都穆
-#+DATE: 2016-06-11 12:23:24
+#+DATE: 2018-05-12 10:18:03
 #+SOURCE: github.com/kanripo/KR3h0042 master 802ce3ed                
 欽定四庫全書　　　　　子部八
 　寓意編　　　　　　　　藝術類一(書畫之屬/)

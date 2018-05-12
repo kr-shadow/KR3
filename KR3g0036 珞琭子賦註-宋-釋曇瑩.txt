@@ -1,5 +1,5 @@
 #+TITLE: 珞琭子賦註-宋-釋曇瑩
-#+DATE: 2016-06-11 12:23:21
+#+DATE: 2018-05-12 10:18:00
 #+SOURCE: github.com/kanripo/KR3g0036 master f9605c2c                
 欽定四庫全書　　　　　子部七
 　提要

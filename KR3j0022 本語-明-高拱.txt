@@ -1,5 +1,5 @@
 #+TITLE: 本語-明-高拱
-#+DATE: 2016-06-11 12:23:32
+#+DATE: 2018-05-12 10:18:10
 #+SOURCE: github.com/kanripo/KR3j0022 master a7ec6cb3                
 欽定四庫全書　　　　　子部十
 　本語　　　　　　　　　雜家類一(雜學之屬/)

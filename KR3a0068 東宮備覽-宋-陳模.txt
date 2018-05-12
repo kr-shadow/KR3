@@ -1,5 +1,5 @@
 #+TITLE: 東宮備覽-宋-陳模
-#+DATE: 2016-06-11 12:22:52
+#+DATE: 2018-05-12 10:17:32
 #+SOURCE: github.com/kanripo/KR3a0068 master a7882a48                
 欽定四庫全書　　　　　子部一
 　東宫備覽　　　　　　　儒家類

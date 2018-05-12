@@ -1,5 +1,5 @@
 #+TITLE: 國光談苑-宋-王君玉
-#+DATE: 2016-06-11 12:24:18
+#+DATE: 2018-05-12 10:18:53
 #+SOURCE: github.com/kanripo/KR3l0052 master f8a7bdbe                
 欽定四庫全書　　　　　子部十二
 　國老談苑　　　　　　　小說家𩔖一(雜事之屬/)

@@ -1,5 +1,5 @@
 #+TITLE: 知言-宋-胡宏
-#+DATE: 2016-06-11 12:22:50
+#+DATE: 2018-05-12 10:17:30
 #+SOURCE: github.com/kanripo/KR3a0049 master 9fd6e2a4                
 欽定四庫全書　　　　　子部一
 　提要

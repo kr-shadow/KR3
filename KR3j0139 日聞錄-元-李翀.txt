@@ -1,5 +1,5 @@
 #+TITLE: 日聞錄-元-李翀
-#+DATE: 2016-06-11 12:23:38
+#+DATE: 2018-05-12 10:18:16
 #+SOURCE: github.com/kanripo/KR3j0139 master d2052482                
 欽定四庫全書　　　　　子部十
 　提要

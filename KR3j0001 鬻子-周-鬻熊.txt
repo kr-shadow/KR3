@@ -1,5 +1,5 @@
 #+TITLE: 鬻子-周-鬻熊
-#+DATE: 2016-06-11 12:23:31
+#+DATE: 2018-05-12 10:18:09
 #+SOURCE: github.com/kanripo/KR3j0001 master f09dedff                
 欽定四庫全書　　　　　子部十
 　鬻子　　　　　　　　　雜家類一(雜學之屬/)

@@ -1,5 +1,5 @@
 #+TITLE: 黃石公素書-秦-黃石公
-#+DATE: 2016-06-11 12:22:57
+#+DATE: 2018-05-12 10:17:37
 #+SOURCE: github.com/kanripo/KR3b0009 master 52a5aed0                
 欽定四庫全書　　　　　子部二
 　黄石公素書　　　　　　兵家類

@@ -1,5 +1,5 @@
 #+TITLE: 秦西水法-明-西洋熊三拔
-#+DATE: 2016-06-11 12:22:59
+#+DATE: 2018-05-12 10:17:39
 #+SOURCE: github.com/kanripo/KR3d0008 master 178ade0e                
 欽定四庫全書　　　　　子部四
 　泰西水法　　　　　　　農家類

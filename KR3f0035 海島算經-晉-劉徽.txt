@@ -1,5 +1,5 @@
 #+TITLE: 海島算經-晉-劉徽
-#+DATE: 2016-06-11 12:23:19
+#+DATE: 2018-05-12 10:17:58
 #+SOURCE: github.com/kanripo/KR3f0035 master 705a5309                
 欽定四庫全書
 　海島算經　　　　　　　　晉　劉　徽　撰

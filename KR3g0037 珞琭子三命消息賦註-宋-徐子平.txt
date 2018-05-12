@@ -1,5 +1,5 @@
 #+TITLE: 珞琭子三命消息賦註-宋-徐子平
-#+DATE: 2016-06-11 12:23:22
+#+DATE: 2018-05-12 10:18:00
 #+SOURCE: github.com/kanripo/KR3g0037 master a3080d7f                
 欽定四庫全書　　　　　子部七
 　提要

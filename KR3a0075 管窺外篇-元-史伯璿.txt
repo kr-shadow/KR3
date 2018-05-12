@@ -1,5 +1,5 @@
 #+TITLE: 管窺外篇-元-史伯璿
-#+DATE: 2016-06-11 12:22:52
+#+DATE: 2018-05-12 10:17:32
 #+SOURCE: github.com/kanripo/KR3a0075 master c02f06c9                
 欽定四庫全書　　　　　子部一
 　管窺外篇　　　　　　　儒家類

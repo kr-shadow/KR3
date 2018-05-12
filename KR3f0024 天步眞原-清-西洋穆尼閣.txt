@@ -1,5 +1,5 @@
 #+TITLE: 天步眞原-清-西洋穆尼閣
-#+DATE: 2016-06-11 12:23:18
+#+DATE: 2018-05-12 10:17:57
 #+SOURCE: github.com/kanripo/KR3f0024 master e0dcea66                
 欽定四庫全書　　　　　子部
 　天步真原　　　　　　　天文算法類(推步/之屬)
